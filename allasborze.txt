@@ -1,7 +1,0 @@
-5	Continental Automotive Hungary Kft.	50	Business Intelligence (BI) fejlesztõ +		mind	szakmai
-2	Gamma Digital Fejlesztõ és Szolgáltató Kft.	154	Junior .NET fejlesztõ +		mind
-4	IBM Hungary ISSC	135	Junior Data Analyst +	pályakezdõknek		szakmai
-6	Itron Labs	69	Associate Data Scientist +	pályakezdõknek		szakmai
-1	Lippert Software and Consulting	63	Database Developer - Gyakornok +	hallgatóknak, pályakezdõknek
-3	Ness Hungary Kft.	129	Big Data junior technikai konzultáns +	pályakezdõknek
-7	thyssenkrupp Presta Hungary	17	Szoftverfejlesztõ (.NET, C#) +	pályakezdõknek, tapasztalt munkavállalóknak
